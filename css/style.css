@@ -1,0 +1,184 @@
+body { 
+	margin: 0; 
+	padding: 0;
+	background-color: white;
+	font-family: 'EB Garamond', serif;
+}
+
+header{
+	top: 0;
+    height:50px;
+    width: 100%;
+    line-height:50px;
+    position: relative;
+    background-color: black;
+    opacity: 0.5;
+    padding: 5px;
+}
+
+#social li{
+	width: 30px;
+	height:30px;
+	display: inline-block;
+	margin: 0 5px;
+	vertical-align: middle;
+	position: relative;
+	margin-top: -5vh;
+}
+
+.right{
+    height:50px;
+    line-height:50px;
+    position:relative;
+    float:right;
+    width: 200px;
+}
+
+.left{
+    height:50px;
+    line-height:50px;
+    position:relative;
+    float:left;
+    width: 500px;
+    padding: 0 20px;
+    text-decoration: none;
+}
+
+
+header a{
+	width: 15vw;
+	height: auto;
+	margin-top: 4px;
+	text-decoration: none;
+	font-family: 'EB Garamond', serif;
+	font-size: 20px;
+	color:white;
+}
+
+header a:hover{
+	color: #F55A5E;
+	opacity: 1;
+
+
+}
+
+header li:hover{
+	opacity: 1;
+}
+
+#logo{
+	position: relative;
+	margin: 0 auto;
+	margin-top: 2%;
+
+}
+
+#Layer_1{
+	width: 40%;
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	position: relative;
+}
+
+#verbumText{
+	color: grey;
+	font-size: 25px;
+	font-style: bold;
+	line-height: 4px;
+	font-family: 'EB Garamond', serif;
+
+}
+
+#WordText1{
+	margin-top: 20%;
+	width: 60%;
+	color: #8F8C93;
+	font-size: 25px;
+	line-height: 2;
+	font-family: 'EB Garamond', serif;
+
+}
+
+#footsteps{
+	position: relative;
+	margin-left: 70%;
+	width: 40%;
+}
+
+#WordText2{
+	margin-top: 20%;
+	width: 60%;
+	color: #F55A5E;
+	font-size: 25px;
+	line-height: 2;
+	font-family: 'EB Garamond', serif;
+
+}
+
+#leaf{
+	position: relative;
+	margin-left: 20%;
+	width:100px;
+}
+
+#WordText3{
+	margin-top: 20%;
+	width: 60%;
+	color: #8F8C93;
+	font-size: 25px;
+	line-height: 2;
+	font-family: 'EB Garamond', serif;
+
+}
+
+#WordText4{
+	margin-top: 20%;
+	width: 60%;
+	color: #F55A5E;
+	font-size: 25px;
+	line-height: 2;
+	font-family: 'EB Garamond', serif;
+
+}
+
+#WordEnter{
+	color: grey;
+	position: relative;
+	margin-top: 10%;
+	margin-bottom: 10%;
+	font-size: 35px;
+	line-height: 5px;
+	font-family: 'EB Garamond', serif;
+}
+
+#Quotes{
+	color: black;
+	line-height: 3;
+	top:10%;
+	width: 46%;
+	height:900px;
+	float: left;
+	font-size: 20px;
+	line-height: 2;
+	font-family: 'EB Garamond', serif;
+	padding-left: 20px;
+
+}
+
+#Tweets{
+	color: black;
+	line-height: 3;
+	top:10%;
+	width: 46%;
+	height:900px;
+	float: right;
+	font-size: 20px;
+	line-height: 2;
+	font-family: 'EB Garamond', serif;
+	padding-right: 20px;
+
+
+}
+
+

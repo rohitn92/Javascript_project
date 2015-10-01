@@ -1,0 +1,99 @@
+body { 
+	margin: 0; 
+	padding: 0;
+	background-color: white;
+	font-family: 'EB Garamond', serif;
+}
+
+header{
+	top: 0;
+    height:50px;
+    width: 100%;
+    line-height:50px;
+    position: relative;
+    background-color: black;
+    opacity: 0.5;
+    padding: 5px;
+}
+
+#social li{
+	width: 30px;
+	height:30px;
+	display: inline-block;
+	margin: 0 5px;
+	vertical-align: middle;
+	position: relative;
+	margin-top: -5vh;
+}
+
+.right{
+    height:50px;
+    line-height:50px;
+    position:relative;
+    float:right;
+    width: 200px;
+}
+
+.left{
+    height:50px;
+    line-height:50px;
+    position:relative;
+    float:left;
+    width: 500px;
+    padding: 0 20px;
+    text-decoration: none;
+}
+
+
+header a{
+	width: 15vw;
+	height: auto;
+	margin-top: 4px;
+	text-decoration: none;
+	font-family: 'EB Garamond', serif;
+	font-size: 20px;
+	color:white;
+}
+
+header a:hover{
+	color: #F55A5E;
+	opacity: 1;
+
+
+}
+
+header li:hover{
+	opacity: 1;
+}
+
+#logo{
+	position: relative;
+	margin: 0 auto;
+	margin-top: 2%;
+
+}
+
+#Layer_1{
+	width: 40%;
+	height:auto;
+	margin:0 auto;
+	padding:0;
+	position: relative;
+}
+
+#verbumText{
+	color: grey;
+	font-size: 25px;
+	font-style: bold;
+	line-height: 4px;
+	font-family: 'EB Garamond', serif;
+	margin-top: 10%;
+	width:40%;
+
+}
+
+#desc{
+	margin-top: 10%;
+	padding: 40px;
+	width: 60%;
+}
